@@ -1,0 +1,41 @@
+header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul {
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+ul li {
+    list-style-type: none ;
+    justify-content: center;
+    margin: 20px;
+    padding: 0 120px 0 20px;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    justify-content: space-between;
+    font-size: 40px;
+    
+}
+a:hover {
+    color: gray;
+}
+.img1 {
+    margin-left: 0px ;
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+}
+.images2{
+    width: 60px;
+    height: 60px;
+    margin: 30px 30px ;
+}
